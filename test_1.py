@@ -63,6 +63,3 @@ def main():
     print(answer)
 
 main()
-var1 = option1()
-var2 = option2()
-
